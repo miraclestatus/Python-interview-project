@@ -2,7 +2,7 @@
 # @Time    : 2019/12/6 8:48
 # @Author  : Eric Lee
 # @Email   : li.yan_li@neusoft.com
-# @File    : chapter02二分查找非递归实现.py
+# @File    : chapter02二分查找实现.py
 # @Software: PyCharm
 # 二分查找（折半查找）适合有序的数组进行查找
 from random import randint, choice
